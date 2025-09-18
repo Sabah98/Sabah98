@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sabah98
 - 👀 I’m a software developer in AI/ML
-- 🌱 I’m currently learning Quantum Computing
+- 🌱 I’m currently interested in learning Quantum Computing
 - 💞️ I’m looking to collaborate on AI/ML projects
 - 📫 How to reach me email:- sabahanis98@gmail.com ...
 
